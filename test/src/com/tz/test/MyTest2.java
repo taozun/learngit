@@ -9,8 +9,6 @@ public class MyTest2 {
 	}
 
 	public static void dev() {
-		System.out.println("yyyuuuy");
-		System.out.println(12346);
-		System.out.println(12346);
+		System.out.println("yyyuuu-y");
 	}
 }
