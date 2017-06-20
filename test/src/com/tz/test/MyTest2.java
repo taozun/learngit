@@ -9,6 +9,6 @@ public class MyTest2 {
 	}
 
 	public static void dev() {
-		System.out.println("yyyuuu-y");
+		System.out.println(1342346);
 	}
 }
